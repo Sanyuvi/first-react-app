@@ -1,0 +1,72 @@
+.App {
+  text-align: center;
+  border: 1px ;
+  background-color: #007bff;
+  height: 600px;
+  
+}
+.PriceCard1{
+  border: 1px solid black;
+  width : 250px;
+  margin-top: 50px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 10px;
+  height: 500px;
+  background-color: white;
+  
+  
+}
+.Card-block{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 12px;
+  justify-content: center;
+  gap: 0.75 rem;
+  padding-top: 10px;
+}
+ p{
+  text-align: left;
+  margin-left: 20px;
+  
+}
+ .p1{
+  text-align: left;
+  margin-left: 20px;
+  opacity: 0.75;
+
+}
+.PriceCard2{
+  border: 1px solid black;
+  width : 250px;
+  margin-top: 50px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 10px;
+  height: 500px;
+  background-color: white;
+}
+.PriceCard3{
+  border: 1px solid black;
+  width : 250px;
+  margin-top: 50px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 10px;
+  height: 500px;
+  background-color: white;
+ }
+ .btn{
+  font-size: 80%;
+  border-radius: 5rem;
+  border: none;
+  letter-spacing: .1rem;
+  font-weight: bold;
+  padding: 1rem;
+  opacity: 0.9;
+  transition: all 0.2s;
+  width: 200px;
+  color: white;
+  background-color: #007bff;
+ }
